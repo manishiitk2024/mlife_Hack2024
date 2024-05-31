@@ -1,0 +1,54 @@
+{
+    "questionsList": {
+      "Personal Information": [
+        "Can I have your full name, please?",
+        "What is your policy number?",
+        "Can you confirm your contact details, including your phone number and email address?"
+      ],
+      "Incident Details": [
+        "Can you describe the incident that led to your claim?",
+        "What was the date and time of the incident?",
+        "Where did the incident occur?"
+      ],
+      "Type of Claim": [
+        "What type of claim are you filing? (e.g., auto, home, health, etc.)",
+        "Is this the first time you're filing a claim for this incident?"
+      ],
+      "Parties Involved": [
+        "Were there any other parties involved in the incident? If so, can you provide their details?",
+        "Were there any witnesses to the incident? If so, can you provide their contact information?"
+      ],
+      "Damage or Loss Details": [
+        "Can you describe the nature and extent of the damage or loss?",
+        "Do you have any estimates or receipts related to the damage or loss?"
+      ],
+      "Police or Authorities Involvement": [
+        "Was the incident reported to the police or any other authorities?",
+        "If so, can you provide the report number or a copy of the report?"
+      ],
+      "Medical Information (if applicable)": [
+        "Were there any injuries as a result of the incident?",
+        "Did you or anyone involved seek medical attention? If so, can you provide details and any medical reports?"
+      ],
+      "Current Status": [
+        "What is the current status of the situation? (e.g., ongoing repairs, ongoing medical treatment, etc.)",
+        "Have you taken any steps to mitigate further damage or loss?"
+      ],
+      "Documentation": [
+        "Do you have any photos, videos, or documents related to the incident that you can provide?",
+        "Can you email or upload these documents to our claims portal?"
+      ],
+      "Additional Information": [
+        "Is there any other information you think we should know about the incident?"
+      ]
+    },
+    "closingStatements": [
+      "Thank you for providing all the necessary information. Your claim will be processed, and you will receive a reference number shortly.",
+      "Do you have any other questions or concerns about the claims process?",
+      "Is there anything else I can assist you with today?"
+    ],
+    "followUp": [
+      "Our claims adjuster will contact you within [specified time frame] to follow up on your claim.",
+      "Please feel free to contact us if you have any further questions or if there are any updates regarding your claim."
+    ]
+  }

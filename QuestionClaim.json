@@ -1,0 +1,19 @@
+{
+    "DOCUMENTS_TO_UPLOAD": [
+        "Original Discharge Summary or Discharge Card.",
+        "Original Hospital Bills and Receipts (detailed and itemized)."
+    ],
+    "PAYMENT_DETAILS": [
+        "Full Name of the Account Holder (as registered with the bank)",
+        "Bank Name",
+        "Account Number",
+        "SWIFT/BIC Code"
+    ],
+    "KYC": [
+        "Insured Full Name",
+        "Policy or Certificate Number"
+    ]
+}
+
+
+

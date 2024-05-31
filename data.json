@@ -1,0 +1,19 @@
+{
+    "questions": [
+        "I’m sorry to hear that you’re going through this. To assist you with your claim, please help me with some information.",
+        "Please let me know the insured name",
+        "Could you please provide the date of the medical incident.",
+        "Could you please provide the plicy number",
+        "What’s the name of the hospital or medical facility where it was performed?",
+        "Do you have your policy number and any other relevant insurance information handy?",
+        "Can you tell me a bit about the surgery you had and what led up to it?",
+        "How are you feeling now? Are you currently receiving any follow-up care or treatment?",
+        "Who was the primary surgeon or doctor in charge of your procedure?",
+        "Do you have any medical reports, bills, or documentation from the surgery and follow-up care that you can provide?",
+        "Could you give me a summary of the medical expenses incurred and any out-of-pocket costs you’ve had to pay so far?",
+        "Are there any ongoing treatments, medications, or therapies that are part of your recovery process?",
+        "Do you have support from family or friends during your recovery? Is there anything else we can do to assist you during this time?",
+        "Is there any immediate need or concern you have regarding your claim that we can address right away?",
+        "What’s the best way for us to keep you updated on the status of your claim? Would you prefer phone calls, emails, or another method?"
+    ]
+}
